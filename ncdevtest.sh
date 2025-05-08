@@ -7,7 +7,7 @@ set -e
 #======================#
 NOCKCHAIN_DIR="$HOME/nockchain"
 RUST_INSTALL_URL="https://sh.rustup.rs"
-NOCKCHAIN_REPO="https://github.com/zorp/nockchain.git"
+NOCKCHAIN_REPO="https://github.com/zorp-corp/nockchain"
 LOG_FILE="miner.log"
 MINER_SCRIPT="run-miner.sh"
 NODE_CONFIG_FILE="$NOCKCHAIN_DIR/node_wallet.key"
